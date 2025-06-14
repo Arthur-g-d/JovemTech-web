@@ -75,7 +75,7 @@ A aplicação oferece trilhas de aprendizado personalizadas, uma comunidade ativ
 
 ---
 
-## 📚 Tecnologias Utilizadas  
+## 📚 Colaboradores  
 
 | Aluno             | RA                     |
 |:------------------------|:-----------------|
